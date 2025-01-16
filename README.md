@@ -6,7 +6,7 @@ Create `.env` file in root directory and enter the following
 ELEVENLABS_API_KEY=<APIKEY HERE>
 ```
 
-To test the translator run
+To test the dubbing run
 
 ```sh
 npm run test
