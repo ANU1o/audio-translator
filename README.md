@@ -12,7 +12,7 @@ To test the translator run
 npm run test
 ```
 
-Call `createDubFromFile()` function to use the translator in project. It is located at [`index.js`](./src/index.js) in `src` folder.
+Call `createDubFromFile()` function to use the dubbing feature in project. It is located at [`index.js`](./src/index.js) in `src` folder.
 
 Refer [`test.js`](./src/test/test.js) for example usecase.
 
