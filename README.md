@@ -1,6 +1,20 @@
 # Audio Translator
 
+Create `.env` file in root directory and enter the following
 
+```
+ELEVENLABS_API_KEY=<APIKEY HERE>
+```
+
+To test the translator run
+
+```sh
+npm run test
+```
+
+Call `createDubFromFile()` function to use the translator in project. It is located at [`index.js`](./src/index.js) in `src` folder.
+
+Refer [`test.js`](./src/test/test.js) for example usecase.
 
 ## ElevenLab Supported Language List
 
