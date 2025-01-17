@@ -100,7 +100,7 @@ const createDubFromFile = async (
     mode: "automatic",
     source_lang: sourceLanguage,
     num_speakers: 2,
-    watermark: true,
+    watermark: false,
   });
 
   const dubbingId = response.dubbing_id;
